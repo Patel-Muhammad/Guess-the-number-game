@@ -13,4 +13,18 @@ To play the game, simply enter your guess in the input field and click the "Gues
 ## 🚀 Try it here
 Check out the live demo at https://play-guessing-game.netlify.app
 
+## 📷 Screenshot
+
+- Desktop
+
+<img height="600" alt="Screenshot 2023-03-02 174534" src="https://user-images.githubusercontent.com/96219910/222431176-dd229fc2-bbb5-44e4-b28e-22bd04d6e556.png">
+
+<img height="600" alt="Screenshot 2023-03-02 174654" src="https://user-images.githubusercontent.com/96219910/222431160-20d85fde-f19b-4fcd-9aa7-44530182eb4a.png">
+
+- Phone
+
+<img height="600" alt="Screenshot 2023-03-02 174654" src="https://user-images.githubusercontent.com/96219910/222431782-22044e55-160d-4207-b7fa-ca3c621997ba.jpg">
+
+
+
 Feel free to contribute to the project. Any feedback or suggestions for improvements are always welcome.
