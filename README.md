@@ -11,6 +11,6 @@ To play the game, simply enter your guess in the input field and click the "Gues
 - **Winning Notification:** When the player correctly guesses the number, a winning notification is displayed along with the number of attempts it took to win
 
 ## 🚀 Try it here
-Check out the live demo at 
+Check out the live demo at https://play-guessing-game.netlify.app
 
-Feel free to contribute to the project on GitHub at https://github.com/Patel-Muhammad/guess-the-number-game. Any feedback or suggestions for improvements are always welcome.
+Feel free to contribute to the project. Any feedback or suggestions for improvements are always welcome.
