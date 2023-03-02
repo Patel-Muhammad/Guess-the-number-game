@@ -1,8 +1,7 @@
 let check = document.querySelector('.chk')
 
 let msg = document.querySelector('.msg')
-let num = 10
-// [Math.floor(Math.random() * 20)]
+let num = Math.floor(Math.random() * 20)
 console.log(num)
 
 let score = document.querySelector('.score')
